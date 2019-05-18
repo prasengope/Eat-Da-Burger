@@ -12,8 +12,10 @@ This app is a burger logger with MySQL, Node, Express and Sequelize, and follows
 
 * The app will store every burger in a database, whether devoured or not.
 
+* Deploed link to Heroku: 
+
 ![Image](public/assets/images/appscreenshot.png)
-sequelizedBurger/public/assets/images/appscreenshot.png
+
 
 #### Directory structure
 
@@ -48,10 +50,6 @@ All the recommended files and directories should look like the following structu
 ├── schema.sql
 │
 ├── server.js
-│
-└── views
-    ├── index.handlebars
-    └── layouts
-        └── main.handlebars
+
 ```
 
