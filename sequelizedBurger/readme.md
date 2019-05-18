@@ -12,7 +12,7 @@ This app is a burger logger with MySQL, Node, Express and Sequelize, and follows
 
 * The app will store every burger in a database, whether devoured or not.
 
-* Deploed link to Heroku: 
+* Deployed link to Heroku: 
 
 ![Image](public/assets/images/appscreenshot.png)
 
